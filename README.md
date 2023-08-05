@@ -26,7 +26,7 @@ El equipo de UX/UI ya tenía definido el proyecto, que consistía en una librer�
 El objetivo principal del equipo de UX/UI era implementar cambios efectivos que reduzcan el tiempo que los clientes pasan en la página web y hagan que el proceso de compra sea más eficiente.
 
 <details>
-<summary><strong>TAREA A REALIZAR</strong></summary>
+<summary><p><b>TAREA A REALIZAR</b><p></summary>
 <br>
 
  ![Tarea](img/tarea.png)
@@ -63,34 +63,34 @@ Los factores que medimos incluyeron:
 ### Test A
 
 <details>
-<summary><strong>DATOS DEL TEST A<strong></summary>
+<summary><p><b>DATOS DEL TEST A</b><p></summary>
 <br>
 
  ![Test A](img/a.png)
 
 </details>
 
-1. **Análisis del tiempo**: Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.
+1. <p><b>Análisis del tiempo:</b> Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.<p>
 
-2. **Análisis del buscador**: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.
+2. <p><b>Análisis del buscador:</b> Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.<p>
 
-3. **Análisis del pago**: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.
+3. <p><b>Análisis del pago:</b> Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.<p>
 
 ### Test B
 
 <details>
-<summary><strong>DATOS DEL TEST B<strong></summary>
+<summary><p><b>DATOS DEL TEST B</b><p></summary>
 <br>
 
  ![Test B](img/b.png)
 
 </details>
 
-1. **Análisis del tiempo**: Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.
+1. <p><b>Análisis del tiempo:</b> Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.<p>
 
-2. **Análisis del buscador**: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.
+2. <p><b>Análisis del buscador:</b> Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.<p>
 
-3. **Análisis del pago**: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.
+3. <p><b>Análisis del pago:</b> Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.<p>
 
 <a name="gráficos"/>
 
