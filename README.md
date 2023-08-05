@@ -70,13 +70,11 @@ Los factores que medimos incluyeron:
 
 </details>
 
-<ul>
-  <li><b>Análisis del tiempo:</b> Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.</li>
-  
-  <li><b>Análisis del buscador:</b> Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.</li>
-  
-  <li><b>Análisis del pago:</b> Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.</li>
-</ul>
+1. **Análisis del tiempo**: Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.
+
+2. **Análisis del buscador**: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.
+
+3. **Análisis del pago**: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.
 
 ### Test B
 
@@ -88,13 +86,11 @@ Los factores que medimos incluyeron:
 
 </details>
 
-<ul>
-  <li><b>Análisis del tiempo:</b> Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.</li>
-  
-  <li><b>Análisis del buscador:</b> Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.</li>
-  
-  <li><b>Análisis del pago:</b> Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.</li>
-</ul>
+1. **Análisis del tiempo**: Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.
+
+2. **Análisis del buscador**: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.
+
+3. **Análisis del pago**: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.
 
 <a name="gráficos"/>
 
