@@ -26,7 +26,7 @@ El equipo de UX/UI ya tenía definido el proyecto, que consistía en una librer�
 El objetivo principal del equipo de UX/UI era implementar cambios efectivos que reduzcan el tiempo que los clientes pasan en la página web y hagan que el proceso de compra sea más eficiente.
 
 <details>
-<summary><p><b>TAREA A REALIZAR</b><p></summary>
+<summary><b>TAREA A REALIZAR</b></summary>
 <br>
 
  ![Tarea](img/tarea.png)
@@ -63,7 +63,7 @@ Los factores que medimos incluyeron:
 ### Test A
 
 <details>
-<summary><p><b>DATOS DEL TEST A</b><p></summary>
+<summary><b>DATOS DEL TEST A</b></summary>
 <br>
 
  ![Test A](img/a.png)
@@ -79,7 +79,7 @@ Los factores que medimos incluyeron:
 ### Test B
 
 <details>
-<summary><p><b>DATOS DEL TEST B</b><p></summary>
+<summary><b>DATOS DEL TEST B</b></summary>
 <br>
 
  ![Test B](img/b.png)
