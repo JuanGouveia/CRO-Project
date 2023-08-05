@@ -39,11 +39,11 @@ El objetivo principal del equipo de UX/UI era implementar cambios efectivos que 
 
 El equipo de UX/UI realizó los siguientes cambios: 
 
+<br>
+
 ![Buscador](img/cambio_b.png)
 
 ![Pago](img/cambio_p.png)
-
-<br>
 
 ### Encuestas
 
@@ -52,9 +52,9 @@ En este proyecto, llevamos a cabo encuestas rápidas con transeúntes para simul
 
 Los factores que medimos incluyeron:
 
-  1. <strong>Tiempo de compra<strong>: Registrábamos el tiempo transcurrido desde que la persona ingresaba a la página hasta que finalizaba la compra. El tiempo se medía en términos horarios (minutos:segundos), mientras que el resto de las variables se registraban en términos binarios (1 si se usaba o 0 si no se usaba).
-  2. <strong>Uso de la barra de búsqueda<strong>: Registramos si la persona utilizaba o no la barra de búsqueda para encontrar un libro específico.
-  3. <strong>Método de compra<strong>: Indagamos si, una vez que la persona encontraba el libro deseado, utilizaba la opción 'Añadir a la cesta' o la opción 'Pagar ya'.
+  1. <p><b>Tiempo de compra:</b> Registrábamos el tiempo transcurrido desde que la persona ingresaba a la página hasta que finalizaba la compra. El tiempo se medía en términos horarios (minutos:segundos), mientras que el resto de las variables se registraban en términos binarios (<b>1 si se usaba</b> o <b>0 si no se usaba</b>).</p>
+  2. <p><b>Uso de la barra de búsqueda:</b> Registramos si la persona utilizaba o no la barra de búsqueda para encontrar un libro específico.</p>
+  3. <p><b>Método de compra:</b> Indagamos si, una vez que la persona encontraba el libro deseado, utilizaba la opción 'Añadir a la cesta' o la opción 'Pagar ya'.</p>
 
 <a name="datos"/>
 
@@ -79,7 +79,7 @@ Los factores que medimos incluyeron:
 ### Test B
 
 <details>
-<summary><strong>Datos del test B<strong></summary>
+<summary><strong>DATOS DEL TEST B<strong></summary>
 <br>
 
  ![Test B](img/b.png)
