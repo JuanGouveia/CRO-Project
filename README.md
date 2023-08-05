@@ -26,7 +26,7 @@ El equipo de UX/UI ya tenía definido el proyecto, que consistía en una librer�
 El objetivo principal del equipo de UX/UI era implementar cambios efectivos que reduzcan el tiempo que los clientes pasan en la página web y hagan que el proceso de compra sea más eficiente.
 
 <details>
-<summary><strong>Tarea a realizar</strong></summary>
+<summary><strong>TAREA A REALIZAR</strong></summary>
 <br>
 
  ![Tarea](img/tarea.png)
@@ -52,9 +52,9 @@ En este proyecto, llevamos a cabo encuestas rápidas con transeúntes para simul
 
 Los factores que medimos incluyeron:
 
-  1. <b>Tiempo de compra</b>: Registrábamos el tiempo transcurrido desde que la persona ingresaba a la página hasta que finalizaba la compra. El tiempo se medía en términos horarios (minutos:segundos), mientras que el resto de las variables se registraban en términos binarios (1 si se usaba o 0 si no se usaba).
-  2. <b>Uso de la barra de búsqueda</b>: Registramos si la persona utilizaba o no la barra de búsqueda para encontrar un libro específico.
-  3. <b>Método de compra</b>: Indagamos si, una vez que la persona encontraba el libro deseado, utilizaba la opción 'Añadir a la cesta' o la opción 'Pagar ya'.
+  1. <strong>Tiempo de compra<strong>: Registrábamos el tiempo transcurrido desde que la persona ingresaba a la página hasta que finalizaba la compra. El tiempo se medía en términos horarios (minutos:segundos), mientras que el resto de las variables se registraban en términos binarios (1 si se usaba o 0 si no se usaba).
+  2. <strong>Uso de la barra de búsqueda<strong>: Registramos si la persona utilizaba o no la barra de búsqueda para encontrar un libro específico.
+  3. <strong>Método de compra<strong>: Indagamos si, una vez que la persona encontraba el libro deseado, utilizaba la opción 'Añadir a la cesta' o la opción 'Pagar ya'.
 
 <a name="datos"/>
 
@@ -63,18 +63,18 @@ Los factores que medimos incluyeron:
 ### Test A
 
 <details>
-<summary><strong>Datos del test A<strong></summary>
+<summary><strong>DATOS DEL TEST A<strong></summary>
 <br>
 
  ![Test A](img/a.png)
 
 </details>
 
-1. <b>Análisis del tiempo</b>: Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.
+1. <strong>Análisis del tiempo<strong>: Con respecto a la media, que es de 42 segundos, tenemos 17 personas que convierten antes de la media y 13 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es mayor al 56%.
 
-2. <b>Análisis del buscador</b>: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.
+2. <strong>Análisis del buscador<strong>: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 23 personas que hacen uso del buscador y 7 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 75%.
 
-3. <b>Análisis del pago</b>: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.
+3. <strong>Análisis del pago<strong>: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 16 personas que hacen uso del apartado 'Añadir a la cesta' y 14 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es mayor al 53%.
 
 ### Test B
 
@@ -86,11 +86,11 @@ Los factores que medimos incluyeron:
 
 </details>
 
-1. <b>Análisis del tiempo</b>: Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.
+1. <strong>Análisis del tiempo<strong>: Con respecto a la media, que es de 46 segundos, tenemos 15 que convierten antes de la media y 15 que tardan más de la media en convertir. Deducimos así, junto con Bayes, que nuestra tasa de conversión es del 50%.
 
-2. <b>Análisis del buscador</b>: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.
+2. <strong>Análisis del buscador<strong>: Nos interesa saber la importancia que tiene el buscador y qué porcentaje de gente lo usa para llegar al producto. Tenemos 10 personas que hacen uso del buscador y 20 que no. De esta manera, deducimos, junto con Bayes, que nuestra tasa de uso del buscador es mayor al 33%.
 
-3. <b>Análisis del pago</b>: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.
+3. <strong>Análisis del pago<strong>: Nos interesa saber cuánta gente utiliza el apartado 'Añadir a la cesta' frente al apartado 'Pagar ya'. Tenemos 3 personas que hacen uso del apartado 'Añadir a la cesta' y 27 que no. Deducimos así, junto con Bayes, que nuestra tasa de uso del apartado 'Añadir a la cesta' es del 10%.
 
 <a name="gráficos"/>
 
