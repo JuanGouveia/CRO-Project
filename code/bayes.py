@@ -44,4 +44,4 @@ def plot(betas, names, linf=0, lsup=0.006):
         plt.plot(x, y, label='{}, tasa de conv: {:.6f} $\pm$ {:.10f}'.format(n, y_pico, y_var))
         plt.yticks([])
     plt.legend()
-    plt.show();
+    plt.show(); 
