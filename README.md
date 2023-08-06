@@ -1,6 +1,6 @@
 # CRO-Project
 
-![Intro](img/intro.png)
+![Proyecto CRO](img/intro.png)
 
 ## Índice
 
